@@ -1,0 +1,32 @@
+.layout-container-demo .el-menu {
+    border-right: none;
+}
+
+.layout-container-demo .el-main {
+    padding: 0;
+}
+
+.toolbar {
+    width: 20vw;
+}
+
+.nav_container {
+    height: 100vh
+}
+
+.search_input-header {
+    text-align: right;
+    width: 20vw;
+}
+
+.nav_header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.el-header .nav_header {
+    height: 7vh;
+}
+
+/* .title_header {} */

@@ -1,0 +1,29 @@
+.flex_none {
+    flex: none;
+}
+
+.flex_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.background_white {
+    background-color: white;
+}
+
+.width_100 {
+    width: 100%;
+}
+
+.width_90 {
+    width: 90%;
+}
+
+.width_70 {
+    width: 70%;
+}
+
+.cursor_default {
+    cursor: default;
+}

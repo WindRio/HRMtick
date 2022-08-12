@@ -1,0 +1,45 @@
+.flex_none .el-form-item__content {
+    flex: none;
+}
+
+.margin_left_0 .el-form-item__content {
+    margin-left: 0;
+}
+
+.container_account .el-container {
+    height: 100vh;
+}
+
+.header_account {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_permission {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.main .el-main {
+    padding: 0.5em;
+    display: flex;
+}
+
+.header .layout-container-demo .el-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.layout-container-demo .el-main {
+    padding: 0.5em;
+}
+
+.el-form-item__content .content_profile {
+    justify-content: center;
+}
+
+.table_span {
+    margin-left: 10px;
+    cursor: default
+}
